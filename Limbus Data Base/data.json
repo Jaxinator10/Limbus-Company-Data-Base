@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Yi Sang",
+      "tag": "Sinner NO.1",
+      "personallity":"Yi sang is a particularly quiet, mellow man. At the beginning of the game, he fails to stand out much among his fellow sinners due to his tendency to stay silent and watch rather than actively contribute to discussions. On top of this, when he speaks, his words are often obscure and riddle-like whilst also delivered monotone. His expression never shifts much either.",
+      "image": "images/yisang.webp"
+    },
+    {
+      "name": "Faust",
+      "tag": "Sinner NO.2",
+      "personallity":"Faust is a soft-spoken sinner with a sharp tongue, prone to narcissism. She claims to be highly intelligent and appears to have the accomplishments to back up this self-proclamation - such as having developed Mephistopheles, albeit having stolen the blueprints, concepts, and mechanics of the current Mephistopheles from other various now-deceased inventors of T Corp.",
+      "image": "images/faust.webp"
+    },
+    {
+      "name": "Don Quixote",
+      "tag": "Sinner NO.3",
+      "personallity":"Don Quixote is a naive and quixotic person, with a childish view of how the world works. She consistently talks in an animated, exaggerated manner, and jumps into any situation with enthusiasm, regardless of the death or suffering involved. She notably speaks exclusively in Middle English, seemingly in an attempt to take on a more knightly persona.",
+      "image": "images/don.webp"
+    },
+    {
+      "name": "Ryōshū",
+      "tag": "Sinner NO.4",
+      "personallity":"Ryōshū holds a generally aggressive and overarchingly hostile attitude to anyone that she speaks with or interacts with in her daily life or in the workplace meaning that she often sees the other sinners and all other peers as people with dull, unthinking eyes for being unable to comprehend the true, fundamental nature of works of artistic glory and flaying her enemies apart with glee to witness them in a truly macabre sense of magnificent artful ecstasy in any manner of gore or other gruesome actions.",
+      "image": "images/ryoshu.webp"
+    },
+    {
+      "name": "Meursault",
+      "tag": "Sinner NO.5",
+      "personallity":"He is emotionally distant. He never emotes and never involving himself in anything unless ordered to. He seems to lack an awareness of the world around him, mainly regarding the welfare of others. Meursault often fails to see the importance in other's emotions. An example of such is failing to mention, or offer a hand when they are visibly stressed.",
+      "image": "images/meursault.webp"
+    },
+    {
+      "name": "Hong Lu",
+      "tag": "Sinner NO.6",
+      "personallity":"Hong Lu stands out among the Sinners of Limbus Company due to his distinctive demeanor, which is characterized by an almost childlike curiosity and wonder. This contrasts sharply with the hardened, often cynical outlooks of his fellow Sinners, who have been shaped by the harsh realities of life in the City.",
+      "image": "images/hong lu.webp"
+    },
+    {
+      "name": "Heathcliff",
+      "tag": "Sinner NO.7",
+      "personallity":"Heathcliff is an exceptionally short-tempered and abrasive individual, electing violence as a first resort, and aggression as a way of life. He is overly impulsive and quick to anger, with consequences for those involved. However, over the course of several Cantos, a considerably calmer, more considerate, and selfless side of his personality would come to light.",
+      "image": "images/heathcliff.webp"
+    },
+    {
+      "name": "Ishmael",
+      "tag": "Sinner NO.8",
+      "personallity":"Ishmael is a calm, level-headed, yet somewhat aloof and unserious Sinner, with an expectation for sound and reasonable judgment from all, especially from her superiors. She has a tendency to be exceptionally critical of those around her, regardless of their level of authority, as she prioritizes rationality above formalities, shown during Intervallo X. This leads to her forming peculiar relationships with her fellow Sinners.",
+      "image": "images/ishmael.webp"
+    },
+    {
+      "name": "Rodion",
+      "tag": "Sinner NO.9",
+      "personallity":"Rodion is a fun-loving, laid-back woman who makes an effort to be on friendly terms with her fellow Sinners. Her speech is exceptionally casual, preferring to be called Rodya and possessing a tendency to give others cute nicknames. She'll often end her sentences with a giggle or cheeky remark. Rodya expresses a desire to be included in the group's antics and ensure that everyone is getting along, valuing their relationships with one another.",
+      "image": "images/rodion.webp"
+    },
+    {
+      "name": "Dante",
+      "tag": "Sinner NO.10",
+      "personallity":"As a manager, Dante is initially quiet, passive, and rather spineless. They rarely make any real attempts to control the Sinners or talk to them about their problems, while occasionally lamenting their inability to get the Sinners to listen to them due to their own physical weakness (being likely the only person on Mephistopheles without any combat experience, likely due to amnesia). However, as time moves on and Dante discovers their own ability to act as a guiding star for the Sinners, they increase in pride as the Manager of the group and begins to assume the position of actual leadership over the sinners.",
+      "image": "images/dante.webp"
+    },
+    {
+      "name": "Sinclair",
+      "tag": "Sinner NO.11",
+      "personallity":"Sinclair initially shows a passive personality, he often avoids confrontations whenever possible. Similar to his literary portrayal, Sinclair shows a fear of uncertainty and is displayed as a timid character. In general, Sinclair is shown to be introverted and often has difficulty with accepting the violence and insolence of the world. He often doubts himself and externally monologues his uncertainty - occasionally reminiscing over what a certain someone would've done.",
+      "image": "images/sinclair.webp"
+    },
+    {
+      "name": "Outis",
+      "tag": "Sinner NO.12",
+      "personallity":"Being a military veteran, Outis is shown to be strict, commanding and rigorously adhering to the chain of command. Compared to other Sinners, she is shown to be rather subdued and relatively normal, as she approaches most scenarios with a cool-head and tactical mindset. Outis has a noticeable sycophantic relationship towards Dante, as she is quick to offer them advice on what to do next and to defend them from any criticism, even from Vergilius.",
+      "image": "images/outis.webp"
+    },
+    {
+      "name": "Gregor",
+      "tag": "Sinner NO.13",
+      "personallity":"Gregor is a friendly, easygoing man with a casual manner of speaking. Compared to many of his coworkers, Gregor is considerably amicable, and tends to maintain a cursory attitude. In place of a proper title, he refers to Dante as Manager Bud, and is not averse to the number of teasing nicknames Rodya refers to him as, indicating that he is happy to maintain cordial, nonchalant relationships even in a professional setting. ",
+      "image": "images/gregor.webp"
+    }
+  ]
+}
